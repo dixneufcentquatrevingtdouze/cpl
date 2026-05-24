@@ -61,9 +61,9 @@ Le fichier `playlist.m3u8` est créé dans le répertoire cible :
 ```m3u8
 #EXTM3U
 #EXTINF:5749.38,lesson1.mp4
-/home/greg/Videos/cours/lesson1.mp4
-#EXTINF:51.50,lesson10.mp4
-/home/greg/Videos/cours/lesson10.mp4
+/home/foo/Videos/cours/lesson1.mp4
+#EXTINF:51.50,lesson2.mp4
+/home/foo/Videos/cours/lesson10.mp4
 ```
 
 | Directive | Description |
